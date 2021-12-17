@@ -1,0 +1,25 @@
+body{
+  background-color: #FFE6BC;
+  color: #2C2E43;
+}
+h1{
+  color: #9A9483;
+}
+h3{
+  color: #9A9483;
+}
+p{
+  color: #2C2E43;
+}
+hr{
+    border: dotted;
+    border-top: 0;
+    color:Black;
+    text-align: center;
+    height: 0;
+    width: 5%;
+    border-width: 5px;
+}
+img{
+  width: 150px;
+}
