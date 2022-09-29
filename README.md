@@ -48,3 +48,5 @@ Progress in BootStrap 5
 Rav4
 
 17/9/2022
+
+Samsung A73 5G
